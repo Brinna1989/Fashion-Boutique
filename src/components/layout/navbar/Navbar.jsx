@@ -1,6 +1,6 @@
 import { CartWidget } from "../../common/cartWidget/CartWidget";
 import { Link } from "react-router-dom";
-import "./navbar.css";
+import "./Navbar.css";
 
 export const Navbar = () => {
   return (
