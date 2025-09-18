@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Negra",
+    "description": "Camiseta 100% algodón",
+    "code": "CN001",
+    "price": 2000,
+    "status": true,
+    "stock": 40,
+    "category": "Ropa",
+    "thumbnails": [
+      "img/camiseta1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Zapatillas deportivas",
+    "description": "Zapatillas para running",
+    "code": "ZAP001",
+    "price": 12000,
+    "status": true,
+    "stock": 20,
+    "category": "Calzado",
+    "thumbnails": [
+      "img/zapatillas1.png"
+    ]
+  }
+]
