@@ -1,12 +1,20 @@
-# React + Vite
+# Fashion-Boutique Backend - Entrega 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto contiene la implementación del backend de la **API de Fashion-Boutique** para la entrega 1. Incluye endpoints para manejar productos y carritos de compra, persistencia en archivos JSON y validaciones mínimas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 1. Levantar el servidor
 
-## Expanding the ESLint configuration
+### Requisitos previos
+- Node.js v22 o superior
+- npm
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Instalación de dependencias
+```bash
+npm install
+
+### Levantar servidor
+npm run start-api
+
+El servidor corre en http://localhost:8080.
