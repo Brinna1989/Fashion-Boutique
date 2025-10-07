@@ -1,0 +1,40 @@
+.footer {
+  background-color: #0b132b;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-logo {
+  font-size: 1.2rem;
+  color: #5bc0be;
+  margin-bottom: 5px;
+}
+
+.footer-text {
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+
+.footer-socials {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.footer-socials a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-socials a:hover {
+  color: #5bc0be;
+}
+
+.footer-rights {
+  font-size: 0.8rem;
+  color: #aaa;
+  margin-top: 10px;
+}

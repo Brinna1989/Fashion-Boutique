@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Negra",
+    "description": "Camiseta 100% algodón",
+    "code": "CN001",
+    "price": 2000,
+    "status": true,
+    "stock": 40,
+    "category": "Ropa",
+    "thumbnails": [
+      "img/camiseta1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "calza",
+    "price": 34,
+    "stock": 23,
+    "category": "deportivas nike",
+    "description": "",
+    "code": "",
+    "status": true,
+    "thumbnails": []
+  }
+]
