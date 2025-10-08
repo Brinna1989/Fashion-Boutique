@@ -13,16 +13,14 @@
     ]
   },
   {
-    "id": 2,
-    "title": "Zapatillas deportivas",
-    "description": "Zapatillas para running",
-    "code": "ZAP001",
-    "price": 12000,
+    "id": 3,
+    "title": "calza",
+    "price": 34,
+    "stock": 23,
+    "category": "deportivas nike",
+    "description": "",
+    "code": "",
     "status": true,
-    "stock": 20,
-    "category": "Calzado",
-    "thumbnails": [
-      "img/zapatillas1.png"
-    ]
+    "thumbnails": []
   }
 ]
